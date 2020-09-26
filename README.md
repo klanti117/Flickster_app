@@ -2,7 +2,7 @@
 
 Android app that leverages the [TMDB API](https://www.themoviedb.org/documentation/api) to search movies and display cover images. 
 
-![Imgur](https://imgur.com/dqbHQFo)
+![Imgur](https://imgur.com/a/FFCxbIp)
 <!-- ![GIF]
 (https://media.giphy.com/media/MNIoZNUyCPFTXpIAHQ/giphy.gif) -->
 
